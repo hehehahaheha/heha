@@ -1,0 +1,63 @@
+Command: # Windows Commands
+Time: 2025-11-22 17:57:41 -08:00
+Output: Command failed: '#' is not recognized as an internal or external command,
+operable program or batch file.
+
+
+Command: echo Running on Windows
+Time: 2025-11-22 17:57:41 -08:00
+Output: Running on Windows
+
+
+Command: systeminfo | findstr /B /C:"OS Name" /C:"OS Version"
+Time: 2025-11-22 17:57:41 -08:00
+Output: Command failed: FINDSTR: Cannot open Name"
+FINDSTR: Cannot open /C:"OS
+FINDSTR: Cannot open Version"
+
+
+Command: whoami
+Time: 2025-11-22 17:57:44 -08:00
+Output: desktop-nc3vq5a\muddassir
+
+
+Command: hostname
+Time: 2025-11-22 17:57:44 -08:00
+Output: DESKTOP-NC3VQ5A
+
+
+Command: cd
+Time: 2025-11-22 17:57:44 -08:00
+Output: C:\Users\Muddassir\Downloads
+
+
+Command: dir
+Time: 2025-11-22 17:57:44 -08:00
+Output:  Volume in drive C has no label.
+ Volume Serial Number is 0C5B-9F47
+
+ Directory of C:\Users\Muddassir\Downloads
+
+11/22/2025  05:55 PM    <DIR>          .
+11/22/2025  05:55 PM    <DIR>          ..
+11/22/2025  05:55 PM               201 startit_encoded.bat
+11/22/2025  05:55 PM         8,885,793 startit_encoded.ps1
+11/21/2025  06:51 PM         1,106,976 WhatsApp Installer.exe
+               3 File(s)      9,992,970 bytes
+               2 Dir(s)  67,745,898,496 bytes free
+
+
+Command: wmic logicaldisk get size,freespace,caption
+Time: 2025-11-22 17:57:44 -08:00
+Output: Caption  FreeSpace    Size          
+C:       67745894400  114752172032  
+D:                                  
+
+
+
+Command: tasklist | findstr /C:"Image Name" /C:"PID"
+Time: 2025-11-22 17:57:44 -08:00
+Output: Command failed: FINDSTR: Cannot open Name"
+FINDSTR: Cannot open /C:"PID"
+
+
