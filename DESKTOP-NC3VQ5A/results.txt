@@ -1,38 +1,38 @@
 Command: # Windows Commands
-Time: 2025-11-22 18:02:35 -08:00
+Time: 2025-11-22 18:05:13 -08:00
 Output: Command failed: '#' is not recognized as an internal or external command,
 operable program or batch file.
 
 
 Command: echo Running on Windows
-Time: 2025-11-22 18:02:35 -08:00
+Time: 2025-11-22 18:05:13 -08:00
 Output: Running on Windows
 
 
 Command: systeminfo | findstr /B /C:"OS Name" /C:"OS Version"
-Time: 2025-11-22 18:02:35 -08:00
+Time: 2025-11-22 18:05:13 -08:00
 Output: Command failed: FINDSTR: Cannot open Name"
 FINDSTR: Cannot open /C:"OS
 FINDSTR: Cannot open Version"
 
 
 Command: whoami
-Time: 2025-11-22 18:02:38 -08:00
+Time: 2025-11-22 18:05:16 -08:00
 Output: desktop-nc3vq5a\muddassir
 
 
 Command: hostname
-Time: 2025-11-22 18:02:38 -08:00
+Time: 2025-11-22 18:05:17 -08:00
 Output: DESKTOP-NC3VQ5A
 
 
 Command: cd
-Time: 2025-11-22 18:02:38 -08:00
+Time: 2025-11-22 18:05:17 -08:00
 Output: C:\Users\Muddassir\Downloads
 
 
 Command: dir
-Time: 2025-11-22 18:02:38 -08:00
+Time: 2025-11-22 18:05:17 -08:00
 Output:  Volume in drive C has no label.
  Volume Serial Number is 0C5B-9F47
 
@@ -44,26 +44,57 @@ Output:  Volume in drive C has no label.
 11/22/2025  05:55 PM         8,885,793 startit_encoded.ps1
 11/21/2025  06:51 PM         1,106,976 WhatsApp Installer.exe
                3 File(s)      9,992,970 bytes
-               2 Dir(s)  64,258,277,376 bytes free
+               2 Dir(s)  64,224,497,664 bytes free
 
 
 Command: wmic logicaldisk get size,freespace,caption
-Time: 2025-11-22 18:02:38 -08:00
+Time: 2025-11-22 18:05:17 -08:00
 Output: Caption  FreeSpace    Size          
-C:       64258269184  114752172032  
+C:       64224485376  114752172032  
 D:                                  
 
 
 
 Command: tasklist | findstr /C:"Image Name" /C:"PID"
-Time: 2025-11-22 18:02:38 -08:00
+Time: 2025-11-22 18:05:17 -08:00
 Output: Command failed: FINDSTR: Cannot open Name"
 FINDSTR: Cannot open /C:"PID"
 
 
 Command: ls
-Time: 2025-11-22 18:02:38 -08:00
+Time: 2025-11-22 18:05:17 -08:00
 Output: Command failed: 'ls' is not recognized as an internal or external command,
 operable program or batch file.
+
+
+Command: ipconfig
+Time: 2025-11-22 18:05:17 -08:00
+Output: 
+Windows IP Configuration
+
+
+Wireless LAN adapter Local Area Connection* 9:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Local Area Connection* 10:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : HOME
+   Link-local IPv6 Address . . . . . : fe80::973f:dbf5:89b0:164a%17
+   IPv4 Address. . . . . . . . . . . : 192.168.10.7
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : fe80::1%17
+                                       192.168.10.1
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
 
 
