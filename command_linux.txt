@@ -1,0 +1,11 @@
+# Linux Commands
+echo "Running on Linux"
+uname -a
+whoami
+hostname
+pwd
+ls -la
+df -h
+ps aux | head -10
+cat /etc/os-release
+
