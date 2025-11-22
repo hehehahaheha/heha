@@ -1,38 +1,38 @@
 Command: # Windows Commands
-Time: 2025-11-22 07:55:16 -08:00
+Time: 2025-11-22 07:56:49 -08:00
 Output: Command failed: '#' is not recognized as an internal or external command,
 operable program or batch file.
 
 
 Command: echo Running on Windows
-Time: 2025-11-22 07:55:16 -08:00
+Time: 2025-11-22 07:56:49 -08:00
 Output: Running on Windows
 
 
 Command: systeminfo | findstr /B /C:"OS Name" /C:"OS Version"
-Time: 2025-11-22 07:55:16 -08:00
+Time: 2025-11-22 07:56:49 -08:00
 Output: Command failed: FINDSTR: Cannot open Name"
 FINDSTR: Cannot open /C:"OS
 FINDSTR: Cannot open Version"
 
 
 Command: whoami
-Time: 2025-11-22 07:55:18 -08:00
+Time: 2025-11-22 07:56:51 -08:00
 Output: windows-uprirgr\hello
 
 
 Command: hostname
-Time: 2025-11-22 07:55:18 -08:00
+Time: 2025-11-22 07:56:51 -08:00
 Output: WINDOWS-UPRIRGR
 
 
 Command: cd
-Time: 2025-11-22 07:55:18 -08:00
+Time: 2025-11-22 07:56:51 -08:00
 Output: Z:\Ware
 
 
 Command: dir
-Time: 2025-11-22 07:55:18 -08:00
+Time: 2025-11-22 07:56:51 -08:00
 Output:  Volume in drive Z has no label.
  Volume Serial Number is 0000-0000
 
@@ -55,21 +55,21 @@ Output:  Volume in drive Z has no label.
 11/22/2025  05:48 AM         9,086,559 startit_encoded.pdf
 11/22/2025  05:31 AM           435,846 file.pdf
               11 File(s)     18,440,770 bytes
-               5 Dir(s)  47,528,624,128 bytes free
+               5 Dir(s)  47,528,534,016 bytes free
 
 
 Command: wmic logicaldisk get size,freespace,caption
-Time: 2025-11-22 07:55:18 -08:00
+Time: 2025-11-22 07:56:51 -08:00
 Output: Caption  FreeSpace    Size         
-C:       47528624128  68046536704  
+C:       47528534016  68046536704  
 D:       0            6140975104   
 E:       0            127084544    
-Z:       47528624128  68046536704  
+Z:       47528534016  68046536704  
 
 
 
 Command: tasklist | findstr /C:"Image Name" /C:"PID"
-Time: 2025-11-22 07:55:18 -08:00
+Time: 2025-11-22 07:56:51 -08:00
 Output: Command failed: FINDSTR: Cannot open Name"
 FINDSTR: Cannot open /C:"PID"
 
