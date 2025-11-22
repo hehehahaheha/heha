@@ -8,4 +8,4 @@ pwd
 ls -la
 df -h
 ps aux | head -10
-
+ls ~/Desktop
