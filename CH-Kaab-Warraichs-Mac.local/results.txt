@@ -1,16 +1,40 @@
-Command: dir
-Time: 2025-11-22 17:21:04 +05:00
+Command: # macOS Commands
+Time: 2025-11-22 17:24:08 +05:00
+Output: Command execution not supported on this OS
+
+Command: echo "Running on macOS"
+Time: 2025-11-22 17:24:08 +05:00
+Output: Command execution not supported on this OS
+
+Command: sw_vers
+Time: 2025-11-22 17:24:08 +05:00
+Output: Command execution not supported on this OS
+
+Command: system_profiler SPSoftwareDataType | grep "System Version"
+Time: 2025-11-22 17:24:08 +05:00
 Output: Command execution not supported on this OS
 
 Command: whoami
-Time: 2025-11-22 17:21:04 +05:00
+Time: 2025-11-22 17:24:08 +05:00
 Output: Command execution not supported on this OS
 
-Command: ipconfig
-Time: 2025-11-22 17:21:04 +05:00
+Command: hostname
+Time: 2025-11-22 17:24:08 +05:00
 Output: Command execution not supported on this OS
 
-Command: echo Hello from startit.exe
-Time: 2025-11-22 17:21:04 +05:00
+Command: pwd
+Time: 2025-11-22 17:24:08 +05:00
+Output: Command execution not supported on this OS
+
+Command: ls -la
+Time: 2025-11-22 17:24:08 +05:00
+Output: Command execution not supported on this OS
+
+Command: df -h
+Time: 2025-11-22 17:24:08 +05:00
+Output: Command execution not supported on this OS
+
+Command: ps aux | head -10
+Time: 2025-11-22 17:24:08 +05:00
 Output: Command execution not supported on this OS
 
