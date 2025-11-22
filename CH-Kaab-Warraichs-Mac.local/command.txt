@@ -1,5 +1,0 @@
-dir
-whoami
-ipconfig
-echo Hello from startit.exe
-
