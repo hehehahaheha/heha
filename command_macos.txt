@@ -1,0 +1,11 @@
+# macOS Commands
+echo "Running on macOS"
+sw_vers
+system_profiler SPSoftwareDataType | grep "System Version"
+whoami
+hostname
+pwd
+ls -la
+df -h
+ps aux | head -10
+
