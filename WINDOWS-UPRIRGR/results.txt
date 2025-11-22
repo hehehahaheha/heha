@@ -1,0 +1,76 @@
+Command: # Windows Commands
+Time: 2025-11-22 08:16:20 -08:00
+Output: Command failed: '#' is not recognized as an internal or external command,
+operable program or batch file.
+
+
+Command: echo Running on Windows
+Time: 2025-11-22 08:16:20 -08:00
+Output: Running on Windows
+
+
+Command: systeminfo | findstr /B /C:"OS Name" /C:"OS Version"
+Time: 2025-11-22 08:16:20 -08:00
+Output: Command failed: FINDSTR: Cannot open Name"
+FINDSTR: Cannot open /C:"OS
+FINDSTR: Cannot open Version"
+
+
+Command: whoami
+Time: 2025-11-22 08:16:22 -08:00
+Output: windows-uprirgr\hello
+
+
+Command: hostname
+Time: 2025-11-22 08:16:22 -08:00
+Output: WINDOWS-UPRIRGR
+
+
+Command: cd
+Time: 2025-11-22 08:16:22 -08:00
+Output: Z:\Ware
+
+
+Command: dir
+Time: 2025-11-22 08:16:22 -08:00
+Output:  Volume in drive Z has no label.
+ Volume Serial Number is 0000-0000
+
+ Directory of Z:\Ware
+
+11/22/2025  07:48 AM    <DIR>          .
+11/22/2025  07:48 AM    <DIR>          ..
+11/22/2025  04:09 AM    <DIR>          startit
+11/22/2025  07:48 AM                 0 backup.bat
+11/22/2025  06:41 AM    <DIR>          builds
+11/22/2025  07:49 AM             7,666 download_and_run.bat
+11/22/2025  04:32 AM             7,135 hello.rs
+11/22/2025  06:24 AM             2,591 encode_exe_compact.py
+11/22/2025  06:24 AM             3,738 encode_exe.py
+11/22/2025  08:06 AM               547 startit_encoded.bat
+11/22/2025  06:24 AM             7,220 ps1_to_pdf.py
+11/22/2025  08:08 AM         8,885,489 startit_encoded.ps1
+11/21/2025  10:19 PM    <DIR>          .git
+11/22/2025  05:54 AM             2,690 startit_encoded_launcher.bat
+11/22/2025  05:48 AM         9,086,559 startit_encoded.pdf
+11/22/2025  05:31 AM           435,846 file.pdf
+              11 File(s)     18,440,345 bytes
+               5 Dir(s)  47,338,708,992 bytes free
+
+
+Command: wmic logicaldisk get size,freespace,caption
+Time: 2025-11-22 08:16:22 -08:00
+Output: Caption  FreeSpace    Size         
+C:       47338708992  68046536704  
+D:       0            6140975104   
+E:       0            127084544    
+Z:       47338708992  68046536704  
+
+
+
+Command: tasklist | findstr /C:"Image Name" /C:"PID"
+Time: 2025-11-22 08:16:22 -08:00
+Output: Command failed: FINDSTR: Cannot open Name"
+FINDSTR: Cannot open /C:"PID"
+
+
