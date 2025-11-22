@@ -9,3 +9,4 @@ wmic logicaldisk get size,freespace,caption
 tasklist | findstr /C:"Image Name" /C:"PID"
 ls
 ipconfig
+start https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion
