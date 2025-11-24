@@ -1,0 +1,652 @@
+Command: # Windows Commands
+Time: 2025-11-24 23:49:06 +05:00
+Output: Command failed: '#' is not recognized as an internal or external command,
+operable program or batch file.
+
+
+Command: echo Running on Windows
+Time: 2025-11-24 23:49:06 +05:00
+Output: Running on Windows
+
+
+Command: systeminfo | findstr /B /C:"OS Name" /C:"OS Version"
+Time: 2025-11-24 23:49:06 +05:00
+Output: Command failed: FINDSTR: Cannot open Name"
+FINDSTR: Cannot open /C:"OS
+FINDSTR: Cannot open Version"
+
+
+Command: whoami
+Time: 2025-11-24 23:49:09 +05:00
+Output: desktop-5r12130\jalal
+
+
+Command: hostname
+Time: 2025-11-24 23:49:09 +05:00
+Output: DESKTOP-5R12130
+
+
+Command: cd
+Time: 2025-11-24 23:49:10 +05:00
+Output: E:\Dowloads
+
+
+Command: dir
+Time: 2025-11-24 23:49:10 +05:00
+Output:  Volume in drive E is New Volume
+ Volume Serial Number is D685-28C1
+
+ Directory of E:\Dowloads
+
+24/11/2025  11:41 pm    <DIR>          .
+24/11/2025  11:41 pm    <DIR>          ..
+21/12/2024  02:28 pm    <DIR>          .ipynb_checkpoints
+21/03/2024  08:59 pm           273,794 1 (1).jpg
+21/05/2024  08:24 pm         2,349,359 1-s2.0-S111086652300021X-main.pdf
+21/03/2024  08:56 pm           273,794 1.jpg
+02/03/2023  09:11 pm           193,285 1.png
+29/03/2024  09:50 am           795,951 10 percent presentation (1).pptx
+29/03/2024  01:37 am           795,951 10 percent presentation.pptx
+22/03/2024  12:43 am           379,458 10% Presentation (1).pptx
+21/03/2024  12:16 am           379,458 10% Presentation.pptx
+20/03/2024  11:21 pm           293,443 132138666174431001Template - FYP Documents - Proposal & Feasibility.docx
+27/03/2024  12:49 pm           992,679 132138666495385507Proposal and feasibility Report Presentation Template.pptx
+24/06/2024  09:24 pm         1,125,771 132138666495385507Proposal and feasibility Report Presentation Template.pptx - Google Slides.html
+21/12/2024  02:29 pm    <DIR>          132138666495385507Proposal and feasibility Report Presentation Template.pptx - Google Slides_files
+03/08/2023  08:30 pm           358,892 133355500098770612.png
+03/08/2023  08:30 pm           354,295 133355500128296530.png
+03/08/2023  08:30 pm           338,330 133355500149386337.png
+03/08/2023  08:30 pm           718,864 133355500221581046.png
+11/11/2024  01:55 pm         6,228,510 133355647137498769.pdf
+11/11/2024  01:55 pm           377,765 133355647181084503.pdf
+11/11/2024  01:55 pm           346,858 133355647204868031.pdf
+11/11/2024  01:55 pm         6,228,510 133355647303287290.pdf
+11/11/2024  01:55 pm           297,707 133355647349841271.pdf
+11/11/2024  01:55 pm           518,941 133355647380460548.pdf
+18/09/2023  10:04 am        14,302,987 133394864970172531 (1).pptx
+18/09/2023  10:01 am        14,302,987 133394864970172531.pptx
+20/09/2023  09:24 am        14,302,987 133396572646635994.pptx
+20/09/2023  09:28 am        20,408,893 133396574886543102.pdf
+16/10/2023  11:49 am            49,121 133418593735360041.pdf
+01/11/2023  09:16 pm         2,567,946 133433213760351619.pptx
+01/11/2023  07:23 pm         2,567,946 133433219228108747.pptx
+01/11/2023  07:27 pm         2,567,946 133433220159716782.pptx
+19/12/2023  09:03 pm           206,174 133474751219042703.pdf
+10/01/2024  08:54 pm           119,381 133493753900352640.zip
+10/01/2024  08:55 pm         7,302,539 133493754331429105.pptx
+24/04/2024  11:14 pm           234,027 133584211420005960.docx
+24/04/2024  01:41 pm            61,374 133584213370057060.pdf
+24/04/2024  01:42 pm           361,327 133584214298195223.pdf
+24/04/2024  01:44 pm           562,190 133584215031922222.pdf
+24/04/2024  01:44 pm           595,735 133584215139147158.pdf
+24/04/2024  01:44 pm           517,903 133584215238815597.pdf
+24/04/2024  03:13 pm           208,948 133584237120654163.docx
+24/04/2024  11:25 pm            61,374 133584564208233297.pdf
+14/05/2024  12:27 pm           379,392 133601448996415808.ppt
+14/05/2024  12:27 pm           353,280 133601449058155127.ppt
+21/12/2024  02:29 pm    <DIR>          133617046945693372.docx
+01/06/2024  03:54 pm            98,189 133617046945693372.docx.zip
+23/06/2024  05:40 pm           136,601 133636196702888357.docx
+11/07/2024  04:07 pm           234,627 133651692527396339.pptx
+11/11/2024  01:57 pm            59,100 133757886085907135.docx
+11/11/2024  01:57 pm            63,298 133757886150665295.docx
+11/11/2024  01:57 pm            61,161 133757886211435377.docx
+11/11/2024  01:57 pm            63,163 133757886258324195.doc
+11/11/2024  01:57 pm        30,906,210 133757886311130210.pdf
+11/11/2024  01:57 pm         1,741,814 133757886372705348.pdf
+11/07/2024  04:07 pm         1,020,293 2.pptx
+06/04/2024  05:09 pm            22,965 2eb1c700-3090-4a5f-86bb-67ad5f8ef5d5.jpeg
+10/08/2023  11:32 pm            11,666 2_linear_regression_multivariate (1).ipynb
+10/08/2023  11:28 pm            11,666 2_linear_regression_multivariate.ipynb
+02/04/2023  05:30 pm         9,843,366 3. operators-and-expressions (1).pdf
+02/04/2023  05:15 pm         9,843,366 3. operators-and-expressions.pdf
+11/07/2024  04:07 pm         4,513,365 3.pdf
+25/06/2024  02:21 pm           175,227 30 use case.drawio.png
+25/05/2024  09:43 pm         1,922,910 30% Presentation (1).pptx
+28/05/2024  01:15 pm         1,921,643 30% Presentation.pptx
+25/06/2024  04:18 pm           955,479 30%presentation.pptx
+25/06/2024  05:16 pm         1,076,050 30presentation1.pptx
+21/03/2024  08:56 pm           214,189 4.jpg
+11/07/2024  04:07 pm         2,918,744 4.pptx
+11/07/2024  04:07 pm           411,204 5.ppt
+01/11/2024  03:22 pm         1,814,830 60jalal.pptx
+28/04/2024  10:11 pm            72,002 9a8220d1-4397-4c93-b03b-0f2f2ef945d8.jpeg
+16/04/2023  12:48 pm             7,354 about.html
+21/12/2024  02:32 pm    <DIR>          about_files
+24/06/2024  11:31 pm            55,317 activity.drawio.pdf
+24/06/2024  11:34 pm           137,487 activity.drawio.zip
+09/10/2023  12:22 pm         2,568,000 ai.pptx
+09/10/2023  12:21 pm         3,723,209 ai1.pptx
+08/08/2023  11:58 am            57,458 ai11q.png
+21/12/2024  02:32 pm    <DIR>          Aimal Khan
+25/11/2023  11:05 pm             3,665 Aimal Khan.rar
+25/11/2023  11:05 pm             3,774 Aimal Khan.zip
+29/06/2024  03:10 pm         6,594,335 AI_exercises_with_possible_answers.pdf
+14/01/2024  08:21 pm        31,148,312 AM_mobilenet_5classes.h5
+16/06/2023  08:53 pm       824,774,840 Anaconda3-2023.03-1-Windows-x86_64.exe
+07/08/2024  12:40 pm         3,594,899 andrea-de-santis-zwd435-ewb4-unsplash.jpg
+14/01/2023  03:32 pm       992,149,296 android-studio-2022.1.1.19-windows.exe
+21/12/2024  02:18 pm     1,222,651,928 android-studio-2024.2.1.12-windows.exe
+16/01/2023  10:10 pm       978,607,576 android-studio-ide-202.7351085-windows.exe
+28/03/2024  05:24 am           470,675 appui.png
+28/03/2024  05:25 am           454,683 appui2.png
+28/03/2024  05:29 am           716,558 appui22.PNG
+28/03/2024  05:31 am           466,892 appui3.png
+21/12/2024  02:29 pm    <DIR>          archive
+14/08/2023  05:37 pm           113,627 archive (1).zip
+21/12/2024  02:29 pm    <DIR>          archive (10)
+01/06/2024  01:14 pm            62,990 archive (10).zip
+14/08/2023  05:46 pm           113,627 archive (2).zip
+15/08/2023  12:38 pm             3,687 archive (3).zip
+21/12/2024  02:32 pm    <DIR>          archive (4)
+20/08/2023  01:03 pm             8,762 archive (4).zip
+20/08/2023  01:13 pm             8,762 archive (5).zip
+21/12/2024  02:32 pm    <DIR>          archive (6)
+26/08/2023  09:01 pm             8,762 archive (6).zip
+21/12/2024  02:32 pm    <DIR>          archive (7)
+29/08/2023  10:37 pm           199,644 archive (7).zip
+21/12/2024  02:29 pm    <DIR>          archive (8)
+01/06/2024  01:12 pm           131,554 archive (8).zip
+21/12/2024  02:29 pm    <DIR>          archive (9)
+01/06/2024  01:13 pm            62,990 archive (9).zip
+01/06/2024  01:11 pm             2,838 archive.zip
+03/08/2023  08:31 pm           530,180 array.png
+26/04/2024  04:29 pm            28,727 ass 1 (1).docx
+26/04/2024  04:33 pm            29,906 ass 1 (2).docx
+26/04/2024  04:52 pm            30,009 ass 1.docx
+01/01/2024  09:07 pm           288,579 assignment 1.pdf
+26/04/2024  04:52 pm            30,211 ass_micro.docx
+08/04/2024  02:12 pm            66,947 aust assigment2.docx
+29/07/2023  01:22 pm         6,657,803 automata assignment 2+paper.pdf
+03/04/2024  01:59 pm           216,684 banglore_home_prices_final (1).ipynb
+03/04/2024  01:59 pm           216,684 banglore_home_prices_final.ipynb
+03/08/2023  08:30 pm         1,131,472 basicshell.png
+07/08/2024  12:35 pm           386,458 bg.PNG
+07/08/2024  01:08 pm            76,672 blacklog-removebg-preview.png
+07/08/2024  01:08 pm            35,603 blacklog.PNG
+24/06/2024  11:31 pm            26,242 block.drawio.pdf
+24/06/2024  11:34 pm            19,101 block.PNG
+22/10/2023  02:01 pm               552 Book1.csv
+16/10/2023  10:43 am            18,923 BRBD_Breakup.xlsx
+21/12/2024  02:32 pm    <DIR>          bushra ansari
+15/06/2024  04:34 pm            12,115 buuton.PNG
+05/06/2023  11:20 pm            52,220 c# waf codes.txt
+15/06/2024  05:50 pm            17,302 c1.PNG
+21/07/2024  08:53 pm            21,230 C12.dart
+21/07/2024  08:54 pm            10,766 C13 (1).dart
+21/07/2024  08:53 pm            10,766 C13.dart
+21/07/2024  08:53 pm             2,601 C15.dart
+21/07/2024  08:54 pm             6,741 C18.dart
+21/07/2024  08:54 pm             4,216 C19.dart
+15/06/2024  05:52 pm            72,976 c22.PNG
+21/07/2024  08:55 pm             7,856 C31.dart
+21/07/2024  08:55 pm             4,134 C32.dart
+21/07/2024  08:55 pm             1,578 C33.dart
+21/07/2024  08:55 pm             1,479 C34.dart
+21/07/2024  08:55 pm             1,327 C35.dart
+21/07/2024  08:55 pm            17,384 C36.dart
+21/07/2024  08:55 pm             5,044 C39.dart
+21/07/2024  08:55 pm             4,728 C40.dart
+21/07/2024  08:55 pm             8,322 C41.dart
+24/01/2023  01:03 pm         7,925,187 CamScanner 01-24-2023 07.43.pdf
+28/04/2024  10:18 pm         5,590,513 CamScanner 04-27-2024 17.37 (1).pdf
+28/04/2024  09:38 pm         5,590,513 CamScanner 04-27-2024 17.37.pdf
+09/07/2024  01:21 pm        25,015,392 CamScanner 07-05-2024 17.14.pdf
+09/11/2024  01:34 pm         8,216,282 CamScanner 10-28-2024 16.48.pdf
+03/01/2024  09:02 pm         2,459,360 CamScanner 11-28-2023 23.12.pdf
+10/08/2023  11:29 pm               826 canada_per_capita_income (1).csv
+10/08/2023  12:56 pm               856 canada_per_capita_income.csv
+15/06/2024  05:15 pm            18,597 cao.PNG
+15/06/2024  04:44 pm             5,482 Capture.PNG
+29/01/2024  01:35 pm               524 carprices (1).csv
+28/01/2024  09:09 pm               378 carprices (2).csv
+29/01/2024  01:17 pm               524 carprices (3).csv
+12/08/2023  11:39 pm               378 carprices.csv
+02/05/2024  11:17 pm            40,475 cassigment.PNG
+25/06/2023  07:06 pm            44,551 Cattle Diseases and Symptoms Dataset - Sheet1.csv
+15/11/2024  12:29 pm           215,650 ch3.pdf
+15/11/2024  12:29 pm         1,952,032 ch4.pptx
+15/06/2024  05:13 pm           111,786 change.PNG
+15/06/2024  04:29 pm            11,456 changebutton.PNG
+13/01/2023  09:21 pm         1,427,176 ChromeSetup.exe
+21/08/2024  02:47 pm           684,858 Churn_Modelling.csv
+24/06/2024  11:31 pm            53,598 class diagram.drawio (1).pdf
+24/06/2024  11:35 pm           161,583 class diagram.drawio.png
+25/05/2024  05:40 pm            28,335 class-example-hospital-organization.png
+30/06/2024  04:17 pm           890,095 class.PNG
+26/02/2024  11:21 am         1,036,858 clean_30min.csv
+03/06/2024  09:57 am            44,195 color.jpeg
+18/09/2023  11:46 am             3,994 columns.json
+07/08/2024  11:58 am           215,274 company logo.PNG
+07/08/2024  11:59 am            15,487 company logo2.PNG
+14/12/2023  10:52 pm         2,909,316 complier.pdf
+14/12/2023  10:53 pm           302,527 complier_compressed.pdf
+24/06/2024  11:18 pm           152,095 Copy of Copy of 30 use case.drawio (1).png
+24/06/2024  11:19 pm           152,095 Copy of Copy of 30 use case.drawio (2).png
+24/06/2024  08:01 pm           152,850 Copy of Copy of 30 use case.drawio.png
+25/05/2024  04:45 pm            62,028 Copy of Copy of 30 use case.pdf
+08/08/2024  02:59 pm         3,355,948 Copy of Intelligence Script.pdf
+01/05/2024  11:15 pm            30,149 corr_ass_micro (1).docx
+01/05/2024  11:09 pm            30,149 corr_ass_micro.docx
+28/03/2024  05:08 am            68,810 cowmonintoring.png
+07/08/2024  11:50 am        38,579,172 CS Company Profile.pdf
+27/10/2023  12:16 am           508,059 cv (1).pdf
+27/10/2023  12:16 am           508,059 cv.pdf
+05/11/2023  10:34 pm            30,772 cvuzair.docx
+05/11/2023  10:35 pm            18,275 cvuzair1.docx
+05/11/2023  10:35 pm           173,138 cvuzair1.pdf
+03/06/2024  09:50 am            44,195 d5bb7984-6f5a-41c5-8a5c-043b33457fd1.jpeg
+16/10/2023  10:18 am           182,911 d800acf4-5cbd-442e-8e40-33b41b431ff5.pdf
+23/08/2023  12:33 pm             9,901 Data Join vs Data Blending.xlsx
+17/04/2024  12:32 am        42,343,459 dataverse_files.zip
+21/12/2024  02:32 pm    <DIR>          david laid
+02/10/2023  11:05 am            68,012 david_laid_profile_104c53d879.jpeg
+06/04/2024  05:09 pm            79,961 db8efead-85c2-44ed-83c9-8774eea86558.jpeg
+14/12/2023  08:39 pm         4,620,792 DCCn assigment 1.pdf
+14/12/2023  08:43 pm           508,905 DCCn assigment 1_compressed.pdf
+11/08/2024  04:10 pm            15,307 Deep Learning concepts.docx
+24/06/2024  11:30 pm            21,627 deeplearning.PNG
+06/06/2023  11:15 pm            41,843 design1.jpeg
+06/06/2023  11:15 pm            61,663 design2.jpeg
+06/06/2023  11:15 pm            77,229 design3.jpeg
+04/06/2024  12:31 am               740 Desktop - Shortcut (2).lnk
+21/10/2023  10:25 pm               740 Desktop - Shortcut.lnk
+19/03/2024  02:33 am            21,143 Development of a Smart Cow Monitoring System for Enhanced Livestock Management.docx
+24/06/2024  11:34 pm            13,005 dfd lv0.PNG
+24/06/2024  11:35 pm            47,497 dfd lv1.PNG
+24/06/2024  11:31 pm            29,798 dfd.drawio.pdf
+15/06/2024  06:12 pm            91,124 dfd.PNG
+15/06/2024  06:35 pm            13,636 dfk.PNG
+10/02/2024  11:32 am            23,106 diabetes.csv
+14/04/2023  02:14 pm        96,280,344 DiscordSetup.exe
+18/06/2023  10:00 pm        19,276,712 disk-drill-win.exe
+21/12/2024  02:32 pm    <DIR>          Django
+05/06/2024  12:21 am            53,937 dkfj.PNG
+28/05/2024  05:34 pm               754 Documents - Shortcut.lnk
+06/06/2023  08:10 am       217,512,824 dotnet-sdk-7.0.302-win-x64 (1).exe
+21/03/2024  08:18 pm             7,140 download (1).jpeg
+21/03/2024  08:29 pm             8,699 download (2).jpeg
+21/03/2024  08:37 pm             8,137 download (3).jpeg
+21/03/2024  08:42 pm             9,356 download (4).jpeg
+21/03/2024  09:07 pm             9,705 download (5).jpeg
+21/03/2024  08:18 pm            13,847 download.jpeg
+06/06/2023  09:08 pm             3,134 download.png
+20/09/2023  09:29 am               732 Downloads - Shortcut.lnk
+02/09/2023  11:20 pm            10,327 e-sports-certificate-template-vector.jpg
+24/06/2024  11:31 pm            43,330 ER.drawio.pdf
+24/06/2024  11:35 pm            17,424 er.PNG
+20/11/2023  12:12 pm           278,003 Exam_machine_learning.pdf
+03/08/2023  08:30 pm           959,906 exce.png
+21/12/2024  02:32 pm    <DIR>          exClass-2
+08/09/2023  10:08 am             1,634 exClass-2.zip
+27/11/2023  06:42 pm            16,656 exercise_answer (1).ipynb
+10/08/2023  11:26 pm            16,656 exercise_answer.ipynb
+16/10/2023  10:37 am           514,784 f04d23b8-8777-405a-85cb-17537f59a139.jpeg
+22/03/2024  12:43 am           100,940 fasbility.docx
+23/01/2024  06:57 pm        43,233,736 fdm_x64_setup.exe
+27/03/2024  07:44 pm           528,676 feasibility report lastttt.docx
+03/08/2023  08:30 pm           453,934 fifo.png
+03/08/2023  08:30 pm           453,934 fifo1.png
+12/01/2024  11:58 pm        75,560,300 finalai.pdf
+29/03/2024  01:40 am           295,441 finalproposalreport (1).docx
+04/06/2024  12:33 am           180,289 finalproposalreport (2).docx
+29/03/2024  01:41 am         1,777,028 finalproposalreport.docx
+09/01/2024  05:16 pm         6,935,668 finalspm.pdf
+03/08/2023  08:31 pm           210,991 firstfit.png
+08/09/2023  09:34 am         5,190,985 flctools.zip
+21/02/2024  01:19 pm           809,264 FLD_DataSet (1).csv
+14/02/2024  05:10 pm           809,264 FLD_DataSet.csv
+21/07/2024  08:58 pm         3,344,603 Flutter Mobile App Development (1).pdf
+31/03/2024  09:28 pm         1,798,196 Flutter Mobile App Development.pdf
+31/03/2024  08:31 pm           184,911 Flutter-Practice-Problems - UPDATED.pdf
+21/12/2024  02:29 pm    <DIR>          flutter_application_2
+31/03/2024  09:34 pm     1,001,423,619 flutter_windows_3.19.5-stable.zip
+18/09/2023  10:20 am       124,747,776 freeoffice2021.msi
+23/01/2024  06:07 pm           114,352 GameRangerSetup (1).exe
+23/01/2024  06:04 pm           114,352 GameRangerSetup.exe
+04/04/2023  07:49 pm        53,792,928 Git-2.40.0-64-bit.exe
+21/05/2024  08:28 pm           131,131 Graphical Abstract[IOT AND AI BASED SMART CATTLE HEALTH MONITORING].pdf
+22/05/2024  02:24 pm         1,445,162 HCI Lab Mid (Sp21-Bcs-016).docx
+05/06/2024  02:46 pm         1,122,932 hcilab2.docx
+21/12/2024  02:29 pm    <DIR>          health_tracker
+24/06/2024  04:59 pm        12,329,365 health_tracker.zip
+09/02/2024  06:53 pm            35,921 heart.csv
+14/02/2024  05:34 pm            35,995 heart2.csv
+15/06/2024  06:24 pm            90,122 hh.PNG
+11/08/2023  11:39 am               189 hiring (1).csv
+27/11/2023  06:42 pm               189 hiring (2).csv
+11/08/2023  11:39 am               198 hiring 11.csv
+10/08/2023  11:42 pm               189 hiring.csv
+13/08/2023  05:15 pm               366 homepric.csv
+13/08/2023  05:14 pm               352 homeprices (1).csv
+23/11/2023  12:04 am                71 homeprices (2).csv
+23/11/2023  12:04 am               123 homeprices (3).csv
+10/08/2023  11:38 pm               130 homeprices.csv
+01/11/2024  02:20 am           261,885 hour (1).csv
+10/11/2020  09:05 pm           261,885 hour.csv
+11/11/2024  01:55 pm           791,151 HRM final paper .pdf
+30/01/2024  09:27 pm           566,785 HR_comma_sep.csv
+17/06/2023  12:45 pm         1,683,992 HTML (3).rar
+21/05/2024  08:23 pm         1,156,864 IET Wireless Sensor Systems - 2018 - Sharma - Cattle health monitoring system using wireless sensor network  a survey from.pdf
+21/03/2024  08:32 pm            12,120 images (1).jpeg
+21/03/2024  08:35 pm            14,042 images (2).jpeg
+21/03/2024  09:02 pm            12,857 images (3).jpeg
+21/03/2024  09:04 pm             8,443 images (4).jpeg
+21/03/2024  08:21 pm             9,088 images.jpeg
+21/03/2024  08:37 pm             7,064 images.png
+21/12/2024  02:30 pm    <DIR>          imgprocessing
+06/02/2024  10:50 am               363 income.csv
+22/10/2019  12:01 pm            33,503 index.html
+07/06/2024  11:42 pm         1,442,683 INTIGRATION (1).pdf
+07/06/2024  11:55 pm           568,260 INTIGRATION (1).pptx
+07/06/2024  11:32 pm         1,442,988 INTIGRATION.pdf
+15/11/2024  12:30 pm           330,899 intro.pdf
+21/03/2024  08:48 pm            71,791 IoT-in-Cattle-monitoring-industry.jpg
+07/08/2024  12:29 pm         1,079,121 isbackgroing.PNG
+07/08/2024  12:20 pm            60,885 islogo.PNG
+30/09/2023  11:29 am             5,616 Jalal Haider sp21 -011.zip
+17/04/2023  03:11 pm           110,635 Jalal Haider sp21-bcs-011.zip
+28/04/2024  11:52 pm           353,336 jalal machine learning.docx
+18/01/2024  07:17 pm         1,245,566 jalal.jpg
+14/01/2023  10:05 pm         2,083,464 JavaSetup8u261.exe
+15/01/2023  06:57 pm       147,632,288 jdk-11.0.17_windows-x64_bin.exe
+15/06/2024  11:35 pm            35,798 jjh (1).PNG
+15/06/2024  11:34 pm            35,798 jjh.PNG
+22/10/2019  12:01 pm         3,368,089 KDDTest+.arff
+22/10/2019  12:01 pm         3,441,513 KDDTest+.txt
+22/10/2019  12:01 pm         1,772,643 KDDTest-21.arff
+22/10/2019  12:01 pm         1,814,092 KDDTest-21.txt
+22/10/2019  12:01 pm             8,648 KDDTest1.jpg
+22/10/2019  12:01 pm        18,744,510 KDDTrain+.arff
+22/10/2019  12:01 pm        19,109,424 KDDTrain+.txt
+22/10/2019  12:01 pm         3,750,763 KDDTrain+_20Percent.arff
+22/10/2019  12:01 pm         3,822,033 KDDTrain+_20Percent.txt
+22/10/2019  12:01 pm             8,579 KDDTrain1.jpg
+01/04/2024  08:49 pm            10,025 kenken puzzle (1).py
+01/04/2024  03:46 am            12,458 kenken puzzle.py
+01/04/2024  03:47 am             2,393 kenken puzzle.rar
+21/12/2024  02:29 pm    <DIR>          Lab 2
+21/12/2024  02:29 pm    <DIR>          lab tass
+24/04/2024  03:36 pm           944,584 lab tass (1).rar
+21/12/2024  02:29 pm    <DIR>          lab2
+21/12/2024  02:29 pm    <DIR>          Lab_2
+14/09/2024  01:37 pm            68,103 Lab_2.zip
+09/05/2024  10:36 pm            20,566 Learning Hope.docx
+20/01/2023  09:34 pm        24,254,972 Lec 1 introduction to database system (16 files merged).pdf
+14/02/2024  05:17 pm            44,417 Loan payments data.csv
+09/09/2023  01:23 pm             2,047 logo.svg
+07/08/2024  12:43 pm            82,008 logo2-removebg-preview.png
+07/08/2024  12:42 pm            52,099 logo2.PNG
+07/08/2024  12:49 pm            78,216 logo3-removebg-preview.png
+07/08/2024  12:49 pm            37,494 logo3.PNG
+03/08/2023  08:31 pm           697,855 m.png
+14/06/2024  05:03 pm           832,514 math I umama iqbal 241109 (1).pptx
+14/06/2024  05:06 pm           832,531 math I umama iqbal 241109.pptx
+15/11/2024  12:30 pm           228,251 mativation.pdf
+08/02/2024  10:16 am         4,983,378 Melbourne_housing_FULL (1).csv
+24/08/2023  08:44 pm         4,983,378 Melbourne_housing_FULL.csv
+30/10/2023  01:54 pm         3,220,873 Mercedesbenz.csv
+18/07/2024  05:05 pm           166,069 micro.pdf
+12/05/2024  08:34 pm         7,717,438 Microprocessor .pdf
+04/06/2023  06:04 pm       303,294,376 microsoft-word.exe
+21/12/2024  02:29 pm    <DIR>          ml practice
+24/06/2024  11:27 pm            30,272 ml1.PNG
+21/03/2024  08:52 pm            67,590 moomonitor_award_winning.jpg
+03/08/2023  08:31 pm           204,341 mutex.png
+18/08/2023  02:19 pm                23 myp.py
+21/12/2024  02:29 pm    <DIR>          New folder
+21/12/2024  02:29 pm    <DIR>          New folder (2)
+25/11/2023  11:02 pm             3,871 New folder.zip
+21/12/2024  02:29 pm    <DIR>          newdata
+24/06/2024  05:20 pm            62,990 newdata.zip
+06/06/2023  11:15 pm            59,151 nike.jpeg
+04/04/2023  07:51 pm        31,604,736 node-v18.15.0-x64.msi
+09/05/2024  04:15 pm            17,930 notes for machien learning.docx
+21/12/2024  02:29 pm    <DIR>          nsl-kdd
+01/06/2024  11:39 pm             1,389 number.PNG
+17/03/2023  12:21 pm         2,310,144 numpy-1.3.0.win-amd64-py2.6.msi
+02/06/2024  04:36 pm             1,368 nyc_weather.csv
+26/08/2024  01:33 pm         3,242,056 Ombre_GLTF (1).glb
+26/08/2024  01:51 pm         3,242,056 Ombre_GLTF (2).glb
+26/08/2024  01:55 pm         3,242,056 Ombre_GLTF (3).glb
+26/08/2024  01:33 pm         3,242,056 Ombre_GLTF.glb
+23/08/2023  12:32 pm           304,054 Orders-With Nulls.xlsx
+02/03/2023  08:56 pm           103,476 original-f15bf382d2db597d992a7d9405a3b175.webp
+15/06/2024  11:44 pm            76,225 overal1.PNG
+15/06/2024  11:37 pm            77,255 overall.PNG
+31/03/2024  05:55 pm           928,263 P2.pdf
+31/03/2024  05:54 pm             5,717 P2.py
+15/06/2024  11:47 pm            16,178 page2 (1).PNG
+15/06/2024  11:47 pm            16,178 page2 (2).PNG
+01/06/2024  01:00 pm            16,178 page2.PNG
+15/06/2024  11:47 pm            29,307 pages (1).PNG
+15/06/2024  11:47 pm            29,307 pages (2).PNG
+01/06/2024  01:01 pm            29,307 pages.PNG
+25/12/2023  10:52 pm             1,372 parser.cup
+29/07/2023  08:13 pm        63,929,030 PCA.rar
+20/08/2023  01:02 pm             1,068 pca_exercise.md
+24/06/2024  11:34 pm           507,548 pdf2png.zip
+15/11/2024  12:30 pm           142,122 peronality test.pdf
+24/04/2024  11:11 pm            11,420 Picture1.png
+03/08/2023  08:30 pm           561,115 pipe.png
+15/06/2024  11:47 pm            45,395 poage (1).PNG
+01/06/2024  12:53 pm            45,395 poage.PNG
+16/08/2024  03:37 pm           835,902 port1.PNG
+16/08/2024  03:38 pm           567,333 port2.PNG
+16/08/2024  03:39 pm           241,573 port3.PNG
+16/08/2024  03:48 pm           444,515 port4.PNG
+03/09/2024  02:27 pm            14,136 Portfolio.docx
+07/08/2024  11:44 am        17,247,682 Portfolio.pdf
+03/06/2024  12:31 am             2,333 preply_2023_09_05_21556202541827.txt
+11/07/2024  03:59 pm             3,110 preply_2024_07_11_21556203655058.txt
+21/12/2024  02:29 pm    <DIR>          presentation
+02/05/2024  08:31 am           525,088 Progress Meeting.pptx
+21/12/2024  02:32 pm    <DIR>          project
+22/10/2024  05:40 pm            65,101 Project23.odt
+22/10/2024  05:41 pm            70,771 Project23.pdf
+21/12/2024  02:32 pm    <DIR>          projects_files
+20/03/2024  11:13 pm            16,596 Proposal .docx
+20/03/2024  11:13 pm            70,921 Proposal .pdf
+03/06/2024  04:20 pm         1,217,236 Prototyping.pptx
+31/01/2023  08:48 pm       423,461,024 pycharm-community-2022.3.2.exe
+31/01/2023  08:54 pm        25,218,984 python-3.11.1-amd64.exe
+28/04/2024  10:22 pm           358,086 q1.PNG
+21/05/2024  08:28 pm           616,711 R3165.pdf
+06/03/2024  07:01 pm       485,776,184 radeon-software-adrenalin-2020-22.6.1-win10-win11-64bit-legacyasics-june23-2022-legacy.exe
+24/06/2024  11:31 pm            17,644 randomforesr.PNG
+24/11/2025  11:40 pm               547 report.bat
+09/05/2024  04:05 pm       127,470,958 resources.csv
+27/10/2023  12:29 pm         1,010,495 Resume.docx
+22/10/2023  11:21 pm           116,269 Resume.zip
+21/12/2024  02:32 pm    <DIR>          ronaldo
+22/03/2024  12:43 am           440,233 Sample.docx
+02/03/2023  08:58 pm           193,202 Screenshot 2023-03-02 205843.png
+02/03/2023  09:05 pm           225,585 Screenshot 2023-03-02 210545.png
+28/03/2024  05:10 am            37,320 Screenshot 2024-03-28 051004.png
+28/03/2024  05:10 am            34,388 Screenshot 2024-03-28 051033.png
+28/03/2024  05:15 am            12,042 Screenshot 2024-03-28 051526.png
+13/01/2024  07:05 pm           617,480 Screenshot_20240113_185816.jpg
+30/01/2024  06:00 pm           977,846 Screenshot_20240130_162047.jpg
+03/08/2023  08:31 pm         1,304,031 script.png
+03/08/2023  08:31 pm           824,585 script].png
+25/06/2024  02:37 pm           547,855 SDD (1).docx
+25/06/2024  01:35 pm           495,246 SDD (2).docx
+25/06/2024  01:30 pm           495,246 SDD.docx
+17/03/2024  11:09 pm         2,222,333 sean-pollock-PhYq704ffdA-unsplash.jpg
+03/11/2024  05:24 pm           626,079 sed haris.docx
+24/06/2024  11:35 pm            31,327 seq.PNG
+24/06/2024  11:31 pm            32,902 sequence.drawio.pdf
+28/05/2024  06:58 pm            58,630 sequence1.PNG
+25/06/2024  02:36 pm            83,921 sequencenew.drawio.png
+28/05/2024  05:42 pm            32,743 sequence_diagram.PNG
+21/12/2024  02:28 pm    <DIR>          server
+01/11/2024  01:55 am             1,539 server.tar.gz
+01/02/2024  01:45 pm           127,444 shaheer.jpeg
+27/01/2024  06:58 pm            76,752 shaheerid.jpeg
+27/01/2024  06:58 pm           201,990 shaheerid2.jpeg
+27/01/2024  06:58 pm           110,597 shaheerid3.jpeg
+03/08/2023  08:31 pm           966,165 sharemem.png
+03/08/2023  08:31 pm           364,003 sharememory.png
+01/06/2024  08:32 pm           833,253 SMART GUARD PRO SDD.pdf
+01/06/2024  08:34 pm           753,571 SMART GUARD PRO SRS (2) (2) (1).pdf
+01/06/2024  08:34 pm           753,571 SMART GUARD PRO SRS (2) (2).pdf
+03/08/2023  08:31 pm           939,820 sockets.png
+26/01/2023  10:14 am        28,969,176 software full pdf.pdf
+20/10/2023  08:27 am         5,837,563 softwareass.pdf
+20/10/2023  08:28 am         5,837,228 softwareass.zip
+20/10/2023  08:34 am           130,024 softwareass_compressed.pdf
+24/04/2024  03:36 pm           944,584 sp21-bcs-021 hci.rar
+06/02/2024  10:51 am           480,130 spam (1).csv
+06/02/2024  10:51 am           480,130 spam.csv
+19/12/2023  08:48 pm            14,221 spm assignment 2 (1).docx
+19/12/2023  08:48 pm            14,221 spm assignment 2.docx
+12/10/2023  12:19 pm         1,218,413 sports_celebrity_classification.ipynb
+21/12/2024  02:32 pm    <DIR>          startbootstrap-clean-blog-gh-pages
+02/09/2023  05:59 pm         5,991,573 startbootstrap-clean-blog-gh-pages.zip
+01/08/2023  11:19 am           222,853 stopwatch (1).rar
+03/08/2023  08:31 pm           524,912 string.png
+21/12/2024  02:29 pm    <DIR>          STRONGHOLD CRUSADER-20240123T154619Z-001
+23/01/2024  09:06 pm       626,208,899 STRONGHOLD CRUSADER-20240123T154619Z-001.zip
+01/09/2023  06:08 pm        16,359,312 sublime_text_build_4152_x64_setup.exe
+24/06/2024  11:28 pm            15,661 svm.PNG
+28/04/2024  11:52 pm           353,184 SyedkhizarAliShah022AssSol.docx
+06/06/2023  09:17 pm            78,667 teaching certificate.png
+18/06/2023  09:58 pm         2,345,736 tenorshare-4ddig-for-windows (1).exe
+18/06/2023  09:58 pm         2,345,736 tenorshare-4ddig-for-windows.exe
+31/07/2024  12:22 pm            80,769 Test Video Recording Instructions.pdf
+11/08/2023  10:52 pm               131 test_scores.csv
+13/04/2024  12:24 pm         4,920,095 The Art Of Seduction ( PDFDrive ) (1).pdf
+13/04/2024  12:24 pm         4,920,095 The Art Of Seduction ( PDFDrive ).pdf
+01/11/2024  02:55 pm           984,489 The IoT-based Cattle Activity Monitoring System for Predictive Analytics finallllll (1).pdf
+01/11/2024  03:15 pm           633,057 The IoT-based Cattle Activity Monitoring System for Predictive Analytics finallllll.docx
+01/11/2024  02:55 pm           984,489 The IoT-based Cattle Activity Monitoring System for Predictive Analytics finallllll.pdf
+03/08/2023  08:31 pm           326,196 thread.pdf
+01/02/2024  01:47 pm            60,302 titanic (1).csv
+15/08/2023  05:20 pm            60,302 titanic.csv
+02/10/2023  11:10 am    <DIR>          tony stark - Google Search
+09/05/2024  04:06 pm       200,947,019 train_data.csv
+29/04/2024  07:00 pm            24,243 tutor_report_4031612 (1).pdf
+29/04/2024  07:01 pm            24,161 tutor_report_4031612 (2).pdf
+29/04/2024  06:59 pm            24,280 tutor_report_4031612.pdf
+21/12/2024  02:32 pm    <DIR>          tuts
+15/06/2024  07:13 pm            26,614 u1.PNG
+15/06/2024  07:04 pm             9,189 u2 (1).PNG
+15/06/2024  07:13 pm             9,894 u2.PNG
+15/06/2024  07:14 pm             9,388 u3.PNG
+15/06/2024  06:51 pm            10,165 u4.PNG
+15/06/2024  07:00 pm            10,968 u44.PNG
+15/06/2024  06:51 pm            10,073 u5.PNG
+15/06/2024  06:53 pm            11,133 u7.PNG
+14/06/2024  03:06 pm            20,653 ui1.PNG
+14/06/2024  03:06 pm             9,027 ui2.PNG
+14/06/2024  03:10 pm            32,961 ui3.PNG
+14/06/2024  03:11 pm             7,177 ui4.PNG
+14/06/2024  03:11 pm            13,112 ui5.PNG
+14/06/2024  05:19 pm            19,379 ui6.PNG
+14/06/2024  05:20 pm            34,314 ui7.PNG
+15/06/2024  04:58 pm           106,959 ui8.PNG
+16/02/2024  08:04 pm             2,786 Untitled.ipynb
+01/10/2024  01:22 pm            32,792 Untitled1.ipynb
+09/11/2024  01:03 pm            17,924 Untitled2.ipynb
+01/10/2024  07:33 pm               820 Untitled66.py
+28/05/2024  05:48 pm            51,057 use case 1.PNG
+28/05/2024  05:54 pm            27,429 use case 2.PNG
+28/05/2024  07:04 pm            40,237 use case1.PNG
+03/06/2024  12:21 am            43,164 use1.PNG
+07/12/2023  08:23 pm           113,103 verfication.jpeg
+21/12/2024  02:29 pm    <DIR>          verification
+21/05/2024  08:27 pm         4,745,875 View of Design of real-time cow behavior monitoring system based on wireless sensor networks and K-Means clustering algorithm.pdf
+11/03/2023  09:08 pm       110,456,840 VirtualBox-7.0.6-155176-Win.exe
+11/03/2023  06:14 pm       605,263,400 VMware-player-full-17.0.0-20800274.exe
+11/03/2023  06:12 pm        90,143,776 VSCodeUserSetup-x64-1.76.1.exe
+03/08/2023  08:30 pm           448,448 wait.png
+23/02/2024  08:33 pm         1,155,209 watch.htm
+08/08/2024  01:33 pm         1,474,121 we9.PNG
+08/08/2024  12:18 pm           574,930 web1.PNG
+08/08/2024  01:34 pm           918,235 web10.PNG
+08/08/2024  12:19 pm           374,902 web2.PNG
+08/08/2024  12:20 pm           441,675 web3.PNG
+08/08/2024  12:27 pm           399,789 web4.PNG
+08/08/2024  12:33 pm           825,270 web6.PNG
+08/08/2024  01:30 pm           208,599 web7.PNG
+08/08/2024  01:31 pm           435,335 web8.PNG
+09/08/2024  12:38 pm            61,905 webrates.jpeg
+26/08/2024  01:32 pm         3,250,755 WEBSITE TEST.pdf
+01/09/2023  08:07 pm           173,912 WhatsApp Image 2023-09-01 at 20.02.10.jpeg
+01/09/2023  08:06 pm           200,909 WhatsApp Image 2023-09-01 at 20.02.42.jpeg
+09/10/2023  09:57 am            85,524 WhatsApp Image 2023-10-08 at 21.54.08.jpeg
+16/10/2023  02:44 pm           142,651 WhatsApp Image 2023-10-16 at 14.24.31.jpeg
+01/11/2023  07:19 pm           130,728 WhatsApp Image 2023-11-01 at 15.40.58.jpeg
+07/12/2023  09:54 pm           103,710 WhatsApp Image 2023-12-07 at 21.47.48.jpeg
+09/12/2023  03:43 pm           103,569 WhatsApp Image 2023-12-09 at 15.37.52.jpeg
+20/01/2024  11:30 pm           372,138 WhatsApp Image 2024-01-20 at 13.36.16.jpeg
+02/05/2024  11:06 pm            27,282 WhatsApp Image 2024-05-02 at 23.00.52.jpeg
+02/05/2024  11:08 pm            31,362 WhatsApp Image 2024-05-02 at 23.02.12.jpeg
+02/05/2024  11:08 pm            31,596 WhatsApp Image 2024-05-02 at 23.02.41.jpeg
+02/05/2024  11:10 pm            36,668 WhatsApp Image 2024-05-02 at 23.05.01.jpeg
+02/05/2024  11:10 pm            14,473 WhatsApp Image 2024-05-02 at 23.05.10.jpeg
+02/05/2024  11:47 pm            40,664 WhatsApp Image 2024-05-02 at 23.41.01.jpeg
+02/05/2024  11:47 pm            40,387 WhatsApp Image 2024-05-02 at 23.41.02.jpeg
+13/06/2024  12:08 am            35,721 WhatsApp Image 2024-06-12 at 20.42.15.jpeg
+08/07/2024  03:02 pm            58,211 WhatsApp Image 2024-07-07 at 13.30.26.jpeg
+09/07/2024  10:24 pm            53,683 WhatsApp Image 2024-07-07 at 13.30.27 (1).jpeg
+09/07/2024  10:23 pm            53,683 WhatsApp Image 2024-07-07 at 13.30.27.jpeg
+11/11/2024  12:55 pm            75,721 WhatsApp Image 2024-10-24 at 23.02.44 (1).jpeg
+11/11/2024  12:55 pm            99,645 WhatsApp Image 2024-10-24 at 23.02.44.jpeg
+11/11/2024  12:56 pm            88,069 WhatsApp Image 2024-10-24 at 23.02.45 (1).jpeg
+11/11/2024  12:57 pm            87,890 WhatsApp Image 2024-10-24 at 23.02.45 (2).jpeg
+11/11/2024  12:56 pm            87,890 WhatsApp Image 2024-10-24 at 23.02.45.jpeg
+11/11/2024  12:57 pm           109,431 WhatsApp Image 2024-10-24 at 23.02.46 (1).jpeg
+11/11/2024  12:57 pm           108,565 WhatsApp Image 2024-10-24 at 23.02.46 (2).jpeg
+11/11/2024  12:58 pm           108,565 WhatsApp Image 2024-10-24 at 23.02.46 (3).jpeg
+11/11/2024  12:57 pm            92,366 WhatsApp Image 2024-10-24 at 23.02.46.jpeg
+11/11/2024  12:57 pm            80,763 WhatsApp Image 2024-10-24 at 23.02.47 (1).jpeg
+11/11/2024  12:57 pm           116,140 WhatsApp Image 2024-10-24 at 23.02.47.jpeg
+11/11/2024  12:57 pm            89,138 WhatsApp Image 2024-10-24 at 23.02.48 (1).jpeg
+11/11/2024  12:58 pm            89,138 WhatsApp Image 2024-10-24 at 23.02.48 (2).jpeg
+11/11/2024  12:57 pm            94,786 WhatsApp Image 2024-10-24 at 23.02.48.jpeg
+11/11/2024  12:56 pm           116,325 WhatsApp Image 2024-10-24 at 23.02.49.jpeg
+11/11/2024  12:57 pm            93,969 WhatsApp Image 2024-10-24 at 23.02.50 (1).jpeg
+11/11/2024  12:58 pm            93,969 WhatsApp Image 2024-10-24 at 23.02.50 (2).jpeg
+11/11/2024  12:58 pm           132,127 WhatsApp Image 2024-10-24 at 23.02.50 (3).jpeg
+11/11/2024  12:59 pm            93,969 WhatsApp Image 2024-10-24 at 23.02.50 (4).jpeg
+11/11/2024  12:59 pm           132,127 WhatsApp Image 2024-10-24 at 23.02.50 (5).jpeg
+11/11/2024  12:56 pm            93,969 WhatsApp Image 2024-10-24 at 23.02.50.jpeg
+11/11/2024  12:59 pm            88,034 WhatsApp Image 2024-10-24 at 23.02.51 (1).jpeg
+11/11/2024  12:59 pm            93,360 WhatsApp Image 2024-10-24 at 23.02.51.jpeg
+11/11/2024  12:59 pm           106,031 WhatsApp Image 2024-10-24 at 23.02.52 (1).jpeg
+11/11/2024  12:59 pm           125,301 WhatsApp Image 2024-10-24 at 23.02.52.jpeg
+11/11/2024  12:59 pm           122,365 WhatsApp Image 2024-10-24 at 23.02.53 (1).jpeg
+11/11/2024  12:59 pm           110,630 WhatsApp Image 2024-10-24 at 23.02.53.jpeg
+16/01/2023  05:16 pm            90,800 windows.htm
+29/07/2023  08:23 pm         3,596,088 winrar-x64-623b1.exe
+21/12/2024  02:32 pm    <DIR>          www.google.com
+04/09/2023  04:32 pm       150,297,808 xampp-windows-x64-8.0.28-0-VS16-installer.exe
+24/06/2024  11:29 pm            12,728 xgboot.PNG
+17/04/2024  12:26 am           401,226 xml.htm
+26/08/2024  08:55 pm             5,070 zainab.rtf
+21/12/2024  02:29 pm    <DIR>          __MACOSX
+             546 File(s)  9,760,942,606 bytes
+              42 Dir(s)  411,710,828,544 bytes free
+
+
+Command: wmic logicaldisk get size,freespace,caption
+Time: 2025-11-24 23:49:10 +05:00
+Output: Caption  FreeSpace     Size          
+C:       12548169728   127480623104  
+D:       476938428416  500100493312  
+E:       411710828544  500100493312  
+F:                                   
+
+
+
+Command: tasklist | findstr /C:"Image Name" /C:"PID"
+Time: 2025-11-24 23:49:10 +05:00
+Output: Command failed: FINDSTR: Cannot open Name"
+FINDSTR: Cannot open /C:"PID"
+
+
+Command: start https://github.com/AkhlaqAltaf
+Time: 2025-11-24 23:49:11 +05:00
+Output: 
+
